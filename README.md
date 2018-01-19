@@ -10,7 +10,7 @@ MayaとUnityの相互関係
 ここで作成したモデルが当たり判定にもなっているので、大きさはある程度あわせておく、（変更は後から可能。）
 1. Exportしたいモデルを入れたフォルダを作成（フォルダを固定したほうがいい。）
 1. Editのproject setting < EBX Exportが追加されているので、それを選択。
-1. https://raw.githubusercontent.com/175B005/maya_unity/master/Description1.jpg
+1. ![](https://raw.githubusercontent.com/175B005/maya_unity/master/Description1.jpg)
 1. Export　Path先ほど作成したファイルを選択
 1. 自分のPC上に入っているMayaのバージョンを選択(2016からUnityとの連携機能入ってる？？)
 1. Install Unity Integrationを選択→自分の今のプロジェクトが選択されているので、  
