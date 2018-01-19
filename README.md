@@ -17,17 +17,17 @@ MayaとUnityの相互関係
 そのままOK。（ Run Component Undaterは情報をアップデートする機能、更新。）
 1. 勝手にこれでMayaが起動します。↓ここからMayaでの設定。
 1. Mayaが起動したら、Window < 設定/プリファレンス <　プリファレンス < 設定　< リニア；→メートルに変更  Saveします。
-1. https://raw.githubusercontent.com/175B005/maya_unity/master/Description3.jpg
+1. ![](https://raw.githubusercontent.com/175B005/maya_unity/master/Description3.jpg)
 (MayaとUnityではスケールの単位が違うため、Unityにあわせる為、Unityがメートルなので、あわせる目的があります。)
 1. Unityに戻ります。
 1. Mayaで変更したい基本モデル（先ほど作成したもの）を選択し、右クリックでメニューを表示
 1. 下にExport Model...とConvert To Linked Instanceが追加されているので  
 Convert To Linked Instanceのほうを選択します。  
-1. https://raw.githubusercontent.com/175B005/maya_unity/master/Description2.jpg
+1. ![](https://raw.githubusercontent.com/175B005/maya_unity/master/Description2.jpg)
 すると勝手にリンク用のプレファブが生成されます。（先ほど作成したフォルダ）
 1. その後さっきのExport Modelを選択して、先ほどと同じファイルを選択（そのままでOKのはず、、）
 1. Exportが完了したらMaya側に行って、今度はimportします。  
-1. https://raw.githubusercontent.com/175B005/maya_unity/master/Description4.jpg
+1. ![](https://raw.githubusercontent.com/175B005/maya_unity/master/Description4.jpg)
 ファイル　< Unity < import (unity でExportした場所からFBXファイルを選択（unityで作った変更したいモデル）)
 1. mayaの中心にモデルが表示されます。
 1. maya上で変更を加えて、Export（ファイル　< Unity < Export）する。
