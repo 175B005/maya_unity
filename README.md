@@ -1,8 +1,8 @@
-# maya_unity
+# maya_unity 連携機能
 MayaとUnityの相互関係
-- [maya unity](https://youtu.be/0awywk4IqRU)
+- [maya unity連携機能　動画　公開期間があるかもしれない](https://youtu.be/0awywk4IqRU)
 
-- [FBX Exporter](http://u3d.as/XWD)
+- [FBX Exporter　Assets](http://u3d.as/XWD)
 
 1. unity起動
 1. 上記のExporterをimport
