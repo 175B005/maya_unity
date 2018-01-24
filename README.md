@@ -33,4 +33,4 @@ Convert To Linked Instanceのほうを選択します。
 1. maya上で変更を加えて、Export（ファイル　< Unity < Export）する。
 1. unityに戻ると勝手に更新され、テクスチャやモデルの形状など連携ができている。
 
-| [次ページ](https://github.com/175B005/maya_unity2)
+| [次ページ](https://github.com/175B005/maya_unity2)|[目次](https://github.com/175B005/maya_unity_index)
